@@ -1,0 +1,67 @@
+baseURL = 'https://jmicahferguson.com/'
+languageCode = 'en-us'
+theme = "not-much"
+title = 'J. Micah Ferguson'
+
+copyright = "© {year}"
+
+[markup]
+[markup.highlight]
+style = 'dracula'
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+palette = "default"
+showPostsSummary = true
+showThemeNotice = false
+theme = "auto"
+
+# Giscus Comment System
+[params.giscus]
+categoryId = "categoryId"
+categoryName = "categoryName"
+language = "en"
+lazyLoading = true
+mapping = "pathname"
+repository = "username/repository"
+repositoryId = "repositoryId"
+theme = "preferred_color_scheme"
+
+# Navigation
+[menu]
+[[menu.main]]
+
+identifier = "home"
+name = "home"
+title = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+
+identifier = "posts"
+name = "posts"
+title = "Posts"
+url = "/posts"
+weight = 3
+[[menu.main]]
+
+identifier = "about"
+name = "about"
+title = "About"
+url = "/about"
+weight = 2
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+title = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+identifier = "github"
+name = "github"
+title = "GitHub"
+url = "https://github.com/anthonycastaneda/jmicahferguson"
+weight = 5

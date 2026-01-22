@@ -1,0 +1,7 @@
+public
+.hugo_build.lock
+content/.DS_Store
+content/posts/.DS_Store
+static/.DS_Store
+themes/.DS_Store
+.DS_Store
