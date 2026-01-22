@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap");
 
@@ -9,10 +9,10 @@ body {
 body,
 main {
   height: 100%;
-  font-family: "Google Sans Flex", sans-serif !important;
+  font-family: "Spectral", serif !important;
   font-optical-sizing: auto;
   font-style: normal;
-  font-size: 0.95em;
+  font-size: 1em;
   font-weight: normal;
   color: var(--font-color) !important;
 }
@@ -89,7 +89,7 @@ ul > li:has(input[type="checkbox"]) {
 }
 
 code {
-  font-family: "Red Hat Mono", serif !important;
+  font-family: "Overpass Mono", sans-serif !important;
 }
 
 code:not(.highlight *) {
@@ -114,7 +114,7 @@ mark {
 
 kbd {
   background-color: var(--bg-variant) !important;
-  font-family: "Red Hat Mono", monospace !important;
+  font-family: "Overpass Mono", monospace !important;
   font-weight: bold;
 }
 
@@ -130,32 +130,32 @@ kbd {
 }
 
 .post article h1::before {
-  content: "# ";
+  content: "/ ";
   color: var(--secondary);
 }
 
 .post article h2::before {
-  content: "## ";
+  content: "// ";
   color: var(--secondary);
 }
 
 .post article h3::before {
-  content: "### ";
+  content: "/// ";
   color: var(--secondary);
 }
 
 .post article h4::before {
-  content: "#### ";
+  content: "//// ";
   color: var(--secondary);
 }
 
 .post article h5::before {
-  content: "###### ";
+  content: "///// ";
   color: var(--secondary);
 }
 
 .post article h6::before {
-  content: "###### ";
+  content: "/////// ";
   color: var(--secondary);
 }
 
@@ -289,7 +289,7 @@ li > input[type="checkbox"] {
 }
 
 .toc {
-  font-family: "Red Hat Mono", serif !important;
+  font-family: "Overpass Mono", sans-serif !important;
 }
 
 /* Viewport ≥ 768px: container = 720px */
@@ -357,7 +357,7 @@ li > input[type="checkbox"] {
 }
 
 .badge {
-  font-family: "Red Hat Mono", serif !important;
+  font-family: "Overpass Mono", sans-serif !important;
   font-weight: 600 !important;
 }
 
