@@ -32,21 +32,18 @@ theme = "preferred_color_scheme"
 # Navigation
 [menu]
 [[menu.main]]
-
 identifier = "home"
 name = "home"
 title = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-
 identifier = "posts"
 name = "posts"
 title = "Posts"
 url = "/posts"
 weight = 3
 [[menu.main]]
-
 identifier = "about"
 name = "about"
 title = "About"
@@ -58,7 +55,6 @@ name = "tags"
 title = "Tags"
 url = "/tags"
 weight = 4
-
 [[menu.main]]
 identifier = "github"
 name = "github"
