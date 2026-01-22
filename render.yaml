@@ -1,7 +1,7 @@
 version: "1"
 services:
 - type: web
-  name: jmicahfergusonrender
+  name: jmicahferguson
   runtime: static
   repo: https://github.com/anthonycastaneda/jmicahferguson
   envVars:
