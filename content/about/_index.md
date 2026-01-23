@@ -11,6 +11,6 @@ He has decided to circumnavigate the world via the Southern Ocean.  He does not 
 Micah will be uploading videos to YouTube, Vimeo, Facebook, whatever is handy whereever he is.  I am going to post them on this website, as well as any messages he send along the way.
 Hopefully you find the trip as enjoyable as he does.
 
-⚓️
+🌎
 
  \-**Anthony**
