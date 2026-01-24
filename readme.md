@@ -11,9 +11,7 @@ Micah is going to circumnavigate the globe on his boat.  We talked about him doc
 
 ## Tech Abused
 
-![Hugo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg)
-
-Whoa huge
+![Hugo](https://jmicahferguson.com/img/hugo.png)
 
 ![html](https://forthebadge.com/badges/uses-html.svg)
 
